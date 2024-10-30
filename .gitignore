@@ -1,0 +1,10 @@
+﻿.idea
+
+/src/TestDelivery/bin
+/src/TestDelivery/obj
+
+/src/TestDeliveryTests/obj
+/src/TestDeliveryTests/bin
+
+common/logs
+common/data/result.json

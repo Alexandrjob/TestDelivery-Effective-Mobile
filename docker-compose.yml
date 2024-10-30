@@ -1,0 +1,7 @@
+services:
+  delivery_service:
+    build: .
+    volumes:
+      - C:\MainFort\Programming\TestDelivery\common:/app/common
+    stdin_open: true
+    tty: true
